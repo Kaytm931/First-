@@ -1,3 +1,3 @@
-echo "OPENAI_API_KEY=sk-your-key" > .env.local
+echo "OPENAI_API_KEY=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" > .env.local
 npm install
 npm run dev
